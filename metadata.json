@@ -1,8 +1,8 @@
 {
-	"name":"Lift Module",
-	"thumbnail":"liftmodule.png",
-	"screenshot":"liftmodule.png",
-	"templateType":"standard",
+    "name":"The-Veterinary",
+    "thumbnail":"liftmodule.png",
+    "screenshot":"liftmodule.png",
+    "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
         "en": ["Professional", "Dark", "Business", "modern", "stylish", "agency", "magazine", "creative", "elegant", "professional", "sophisticated", "media", "sans-serif"],
@@ -18,7 +18,7 @@
             "color1":"#ffffff",
             "color2":"#fbac71",
             "color3":"#96d3ed",
-            "color4":"#838383",
+            "color4":"#96d3ed",
             "color5":"#acacac",
             "color6":"#ffffff",
             "color7":"#00aec9"
@@ -39,7 +39,7 @@
             "color4":"#717480",
             "color5":"#a4a5aa",
             "color6":"#ffffff",
-            "color7":"#292c35"
+            "color7":"#3AB35C"
         },
         "Swatch 4": {
             "color1":"#ffffff",
@@ -121,7 +121,7 @@
             "color": "@color-swatch1",
             "letter-spacing": "inherit",
             "background-color": "@color-swatch3",
-            "background-color-hover": "darken(@color-swatch3,10%)"
+            "background-color-hover": "lighten(@color-swatch3,10%)"
         },
         "font8": {
             "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
