@@ -1,7 +1,7 @@
 {
     "name":"The-Veterinary",
-    "thumbnail":"liftmodule.png",
-    "screenshot":"liftmodule.png",
+    "thumbnail":"The-Veterinary.png",
+    "screenshot":"The-Veterinary.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
@@ -18,7 +18,7 @@
             "color1":"#ffffff",
             "color2":"#fbac71",
             "color3":"#96d3ed",
-            "color4":"#96d3ed",
+            "color4":"#A1A1A1",
             "color5":"#acacac",
             "color6":"#ffffff",
             "color7":"#00aec9"
