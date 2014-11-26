@@ -1,7 +1,7 @@
 {
     "name":"The-Veterinary",
-    "thumbnail":"The-Veterinary.png",
-    "screenshot":"The-Veterinary.png",
+    "thumbnail":"the-veterinary.png",
+    "screenshot":"the-veterinary.png",
     "templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
