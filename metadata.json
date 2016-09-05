@@ -1,67 +1,110 @@
 {
-    "name":"The-Veterinary",
-    "thumbnail":"the-veterinary.png",
-    "screenshot":"the-veterinary.png",
-    "templateType":"standard",
-    "pageTypes": ["home"],
+    "name": "The-Veterinary",
+    "thumbnail": "the-veterinary.png",
+    "screenshot": "the-veterinary-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-        "en": ["Professional", "Dark", "Business", "modern", "stylish", "agency", "magazine", "creative", "elegant", "professional", "sophisticated", "media", "sans-serif"],
-        "es": ["Profesional", "Oscuro", "Corporativo", "moderno", "estilo", "agencia", "revista", "creativo", "elegante", "profesional", "sofisticado", "comunicacion", "sans-serif"],
-        "br": ["Profissional", "Escuro", "Corporativo", "moderno", "estilo", "agência", "revista", "criativo", "elegante", "profissional", "sofisticado", "mídia", "sans-serif"]
+        "en": [
+            "Professional",
+            "Dark",
+            "Business",
+            "modern",
+            "stylish",
+            "agency",
+            "magazine",
+            "creative",
+            "elegant",
+            "professional",
+            "sophisticated",
+            "media",
+            "sans-serif"
+        ],
+        "es": [
+            "Profesional",
+            "Oscuro",
+            "Corporativo",
+            "moderno",
+            "estilo",
+            "agencia",
+            "revista",
+            "creativo",
+            "elegante",
+            "profesional",
+            "sofisticado",
+            "comunicacion",
+            "sans-serif"
+        ],
+        "br": [
+            "Profissional",
+            "Escuro",
+            "Corporativo",
+            "moderno",
+            "estilo",
+            "ag\u00eancia",
+            "revista",
+            "criativo",
+            "elegante",
+            "profissional",
+            "sofisticado",
+            "m\u00eddia",
+            "sans-serif"
+        ]
     },
-    "images":[
+    "images": [
         "images/feature-bg.jpg"
     ],
-    "colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#fbac71",
-            "color3":"#96d3ed",
-            "color4":"#A1A1A1",
-            "color5":"#acacac",
-            "color6":"#ffffff",
-            "color7":"#00aec9"
+            "color1": "#ffffff",
+            "color2": "#fbac71",
+            "color3": "#96d3ed",
+            "color4": "#A1A1A1",
+            "color5": "#acacac",
+            "color6": "#ffffff",
+            "color7": "#00aec9"
         },
         "Swatch 2": {
-            "color1":"#f8f9fa",
-            "color2":"#e67c67",
-            "color3":"#94cc5c",
-            "color4":"#838383",
-            "color5":"#acacac",
-            "color6":"#ffffff",
-            "color7":"#222429"
+            "color1": "#f8f9fa",
+            "color2": "#e67c67",
+            "color3": "#94cc5c",
+            "color4": "#838383",
+            "color5": "#acacac",
+            "color6": "#ffffff",
+            "color7": "#222429"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#99d1ac",
-            "color3":"#919ed2",
-            "color4":"#717480",
-            "color5":"#a4a5aa",
-            "color6":"#ffffff",
-            "color7":"#3AB35C"
+            "color1": "#ffffff",
+            "color2": "#99d1ac",
+            "color3": "#919ed2",
+            "color4": "#717480",
+            "color5": "#a4a5aa",
+            "color6": "#ffffff",
+            "color7": "#3AB35C"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#e06345",
-            "color3":"#55acaa",
-            "color4":"#838383",
-            "color5":"#acacac",
-            "color6":"#ffffff",
-            "color7":"#404041"
+            "color1": "#ffffff",
+            "color2": "#e06345",
+            "color3": "#55acaa",
+            "color4": "#838383",
+            "color5": "#acacac",
+            "color6": "#ffffff",
+            "color7": "#404041"
         },
         "Swatch 5": {
-            "color1":"#f6f6f6",
-            "color2":"#ff6861",
-            "color3":"#96d3ed",
-            "color4":"#838383",
-            "color5":"#acacac",
-            "color6":"#ffffff",
-            "color7":"#465568"
+            "color1": "#f6f6f6",
+            "color2": "#ff6861",
+            "color3": "#96d3ed",
+            "color4": "#838383",
+            "color5": "#acacac",
+            "color6": "#ffffff",
+            "color7": "#465568"
         }
     },
     "fontSwatch": {
-       "title": "Karla",
+        "title": "Karla",
         "font1": {
             "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
             "font-size": "30px",
